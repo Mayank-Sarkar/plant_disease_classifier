@@ -1,0 +1,17 @@
+# YOLOv8 Plant Disease Classifier - minimal dependencies
+
+# PyTorch (CPU version)
+# GPU users should follow the README instructions to install CUDA-enabled PyTorch first
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+
+# YOLOv8 library
+ultralytics==8.3.195
+
+# Image processing and numerical operations
+numpy==2.2.6
+opencv-python==4.12.0.88
+
+# Progress bars (optional, used in predictions)
+tqdm==4.67.1

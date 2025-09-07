@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.zip
+*.cache
+runs/
+*.ipynb_checkpoints
+env/     
+runs/classify/
