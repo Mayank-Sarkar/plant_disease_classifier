@@ -63,13 +63,3 @@ runs/classify/test_<source_name>/
 
 
 ---
-
-### ✅ How to push to GitHub
-
-1. Initialize repo:
-
-```bash
-cd plant-disease-classifier
-git init
-git add .
-git commit -m "Initial commit - YOLOv8 Plant Disease Classifier"
